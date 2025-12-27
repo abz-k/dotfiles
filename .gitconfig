@@ -1,0 +1,10 @@
+[user]
+	name = Abz
+	email = 220621470+abz-k@users.noreply.github.com
+[init]
+	defaultBranch = main
+	
+[pull]
+	rebase = false
+[core]
+	excludesfile = /Users/abz/.gitignore_global
